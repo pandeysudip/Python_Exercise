@@ -1,2 +1,2 @@
 # python_exercise
-Some basics exercise on python
+## Solved problems on python list, dictionary, and tuples
